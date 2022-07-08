@@ -1,0 +1,211 @@
+﻿@model List<Order>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - SERVER_store</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+    <link href="~/favicon.ico" rel="shortcut icon" />
+    <link href="https://fonts.googleapis.com/css?family=Josefin+Sans:300,300i,400,400i,700,700i" rel="stylesheet">
+    <link rel="stylesheet" href="~/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/font-awesome.min.css" />
+    <link href="~/css/flaticon.css" rel="stylesheet" />
+    <link rel="stylesheet" href="~/css/slicknav.min.css" />
+    <link rel="stylesheet" href="~/css/jquery-ui.min.css" />
+    <link rel="stylesheet" href="~/css/owl.carousel.min.css" />
+    <link rel="stylesheet" href="~/css/animate.css" />
+    <link rel="stylesheet" href="~/css/style.css" />
+    <link rel="stylesheet" href="~/sass/style.scss" />
+</head>
+<header>
+    <nav class="main-navbar">
+        <div class="container">
+            <!-- menu -->
+            <ul class="main-menu">
+                <li><a asp-area="" asp-controller="Home" asp-action="Index">SERVER</a></li>
+                <li><a asp-area="" asp-controller="Home" asp-action="Product">Товары</a></li>
+                <li>
+                    <a href="#">Аккаунт</a>
+                    <ul class="sub-menu">
+                        @if (User.Identity.IsAuthenticated)
+                        {
+                            <li>
+                                <a asp-route-id="@User.Claims.ElementAt(0).Value">@User.Claims.ElementAt(1).Value</a>
+                                @if (User.IsInRole("admin"))
+                                {
+                                    <a asp-area="" asp-controller="Admin" asp-action="AdminPanel" asp-route-id="@User.Claims.ElementAt(0).Value">Админ панель</a>
+
+                                }
+                                <a asp-controller="Home" asp-action="ShowCart"> Корзина </a>
+                                <a asp-area="" asp-controller="Home" asp-action="ShowOrders" asp-route-id="@User.Claims.ElementAt(0).Value">Заказы</a>
+                                <a asp-area="" asp-controller="Account" asp-action="Logout">Выход</a>
+                            </li>
+                        }
+                        else
+                        {
+                            <li>
+                                <a asp-controller="Account" asp-action="Login">Войти</a>
+                            </li>
+                            <li>
+                                <a asp-controller="Account" asp-action="Register">Зарегистрироваться</a>
+                            </li>
+                        }
+                    </ul>
+                </li>
+                <li>
+                    <form asp-controller="Home" asp-action="Search">
+                        <p>
+                            Поиск: <input style="width: 50%" type="text" required minlength="1" name="searchString" />
+                            <input style="width: 20%" type="submit" value="Найти" />
+                        </p>
+                    </form>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
+
+<div class="container">
+    <div id="content">
+        <div class="row mt-5">
+            <div class="col-lg-12">
+                <table class="table table-hover">
+                    <thead>
+                        <tr>
+                            <th scope="col">Номер заказа</th>
+                            <th scope="col">Дата заказа</th>
+                            <th scope="col">Статус</th>
+                            <th scope="col">Адрес</th>
+                            <th scope="col">Способ оплаты</th>
+                            <th></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var order in @Model)
+                        {
+                        <tr>
+                            <th scope="row">@order.id</th>
+                            <td>@order.date</td>
+                            <td>@order.opisanye</td>
+                            <td>@order.adres</td>
+                            <td>@order.oplata</td>
+                            <td><a asp-action="Order" asp-controller="Home" class="btn btn-primary" asp-route-id="@order.id">Подробнее</a></td>
+                        </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+<footer>
+    <section class="footer-section">
+        <div class="container">
+            <div class="footer-logo text-center">
+                <h1 style="color: aliceblue"> SERVER </h1>
+            </div>
+            <div class="row">
+                <div class="col-lg-3 col-sm-6">
+                    <div class="footer-widget about-widget">
+                        <h2>О магазине</h2>
+                        <p>
+                            Сервер предоставляет вам возможность онлайн покупки компьютерной техники и запчастей, так же вы можете создать свой собственный товар на вкладке "Сборка компьютера".
+                            После оформления заказа, товар доставят на ваш адрес, вы можете расплатится как наличными средствами, так и банковской картой
+                        </p>
+                        <img src="img/cards.png" alt="">
+                    </div>
+                </div>
+                <div class="col-lg-3 col-sm-6">
+                    <div class="footer-widget about-widget">
+                        <h2>Категории товаров</h2>
+                        <ul>
+                            @foreach (var item in ViewBag.SubCategoryStruct)
+                            {
+                                <li><a asp-controller="Home" asp-action="ProducthasCategory" asp-route-id="@item.Categoryid">@item.name</a></li>
+
+                            }
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-sm-6">
+                    <div class="footer-widget about-widget">
+                        <h2>Лидеры продаж</h2>
+                        <div class="fw-latest-post-widget">
+                            @foreach (var pro in ViewBag.prod)
+                            {
+                                <div class="lp-item">
+                                    <div class="lp-thumb set-bg" data-setbg="@pro.img"></div>
+                                    <div class="lp-content">
+                                        <h6>@pro.name</h6>
+                                        <span>@pro.price BYN</span>
+                                        <a asp-controller="Home" asp-action="ProductShow" asp-route-id="@pro.id" class="readmore">Подробнее</a>
+                                    </div>
+                                </div>
+                            }
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-sm-6">
+                    <div class="footer-widget contact-widget">
+                        <h2>Техподдержка</h2>
+                        <div class="con-info">
+                            <span>S.</span>
+                            <p>Контактная информация</p>
+                        </div>
+                        <div class="con-info">
+                            <span>E.</span>
+                            <p> улица Колесникова 3, Минск 220017 КБиП </p>
+                        </div>
+                        <div class="con-info">
+                            <span>R.</span>
+                            <p>+375 29 769-25-60</p>
+                        </div>
+                        <div class="con-info">
+                            <span>V.</span>
+                            <p>petrashkevich2222@gmail.com</p>
+                        </div>
+                        <div class="con-info">
+                            <span>E.</span>
+                            <p>Все права защищены!</p>
+                        </div>
+                        <div class="con-info">
+                            <span>R.</span>
+                            <p>Приятных покупок в Сервер</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="social-links-warp">
+            <div class="container">
+                <div class="social-links" style="text-align: center;">
+                    <a href="https://www.instagram.com/petrashkevich2222/" class="instagram">@*<img class="fa fa-instagram" src="https://cdn-icons-png.flaticon.com/512/1384/1384015.png" style=" width: 5%;">*@<span>Instagram</span></a>
+                    <a href="https://vk.com/antony6696662" class="google-plus">@*<img class="fa fa-google-plus" src="https://w7.pngwing.com/pngs/863/431/png-transparent-computer-icons-vk-css-sprites-loghi-text-desktop-wallpaper-computer-icons.png" style=" width: 5%;">*@<span>VK</span></a>
+                    <a href="https://www.artstation.com/anton_petrashkevich" class="pinterest">@*<img class="fa fa-pinterest" src="https://cdn-icons-png.flaticon.com/512/5968/5968655.png" style=" width: 5%;">*@<span>ARTstation</span></a>
+                    <a href="https://www.facebook.com/profile.php?id=100006848527643" class="facebook">@*<img class="fa fa-facebook" src="https://cdn-icons-png.flaticon.com/512/1384/1384005.png" style=" width: 5%;">*@<span>facebook</span></a>
+                </div>
+
+                <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+                <p class="text-white text-center mt-5">
+                    Copyright &copy;
+                    <script>document.write(new Date().getFullYear());</script> - SERVER - Petrashkevich A
+                </p>
+                <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+
+            </div>
+        </div>
+    </section>
+</footer>
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+<script src="~/js/site.js" asp-append-version="true"></script>
+<script src="~/js/jquery-3.2.1.min.js"></script>
+<script src="~/js/bootstrap.min.js"></script>
+<script src="~/js/jquery.slicknav.min.js"></script>
+<script src="~/js/owl.carousel.min.js"></script>
+<script src="~/js/jquery.nicescroll.min.js"></script>
+<script src="~/js/jquery.zoom.min.js"></script>
+<script src="~/js/jquery-ui.min.js"></script>
+<script src="~/js/main.js"></script>
+<link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css" rel="stylesheet" />
+<script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js"></script>

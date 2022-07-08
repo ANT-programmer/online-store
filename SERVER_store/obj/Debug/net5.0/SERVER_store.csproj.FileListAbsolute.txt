@@ -1,0 +1,1720 @@
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\obj\Debug\net5.0\SERVER_store.csproj.AssemblyReference.cache
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\obj\Debug\net5.0\SERVER_store.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\obj\Debug\net5.0\SERVER_store.AssemblyInfoInputs.cache
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\obj\Debug\net5.0\SERVER_store.AssemblyInfo.cs
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\obj\Debug\net5.0\SERVER_store.csproj.CoreCompileInputs.cache
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\obj\Debug\net5.0\SERVER_store.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\obj\Debug\net5.0\SERVER_store.RazorAssemblyInfo.cache
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\obj\Debug\net5.0\SERVER_store.RazorAssemblyInfo.cs
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\appsettings.json
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\SERVER_store.exe
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\SERVER_store.deps.json
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\SERVER_store.runtimeconfig.json
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\SERVER_store.runtimeconfig.dev.json
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\SERVER_store.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\ref\SERVER_store.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\SERVER_store.pdb
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\SERVER_store.Views.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\SERVER_store.Views.pdb
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\Zstandard.Net.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\MySql.Data.EntityFrameworkCore.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\Renci.SshNet.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\SshNet.Security.Cryptography.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\obj\Debug\net5.0\staticwebassets\SERVER_store.StaticWebAssets.Manifest.cache
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\obj\Debug\net5.0\staticwebassets\SERVER_store.StaticWebAssets.xml
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\obj\Debug\net5.0\scopedcss\bundle\SERVER_store.styles.css
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\obj\Debug\net5.0\SERVER_store.TagHelpers.input.cache
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\obj\Debug\net5.0\SERVER_store.TagHelpers.output.cache
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\obj\Debug\net5.0\SERVER_store.RazorCoreGenerate.cache
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\obj\Debug\net5.0\SERVER_store.RazorTargetAssemblyInfo.cache
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\obj\Debug\net5.0\SERVER_store.RazorTargetAssemblyInfo.cs
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\obj\Debug\net5.0\SERVER_store.Views.pdb
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\obj\Debug\net5.0\SERVER_store.csproj.CopyComplete
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\obj\Debug\net5.0\SERVER_store.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\obj\Debug\net5.0\ref\SERVER_store.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\obj\Debug\net5.0\SERVER_store.pdb
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\obj\Debug\net5.0\SERVER_store.genruntimeconfig.cache
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\linq2db.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\SERVER_store.StaticWebAssets.xml
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\obj\Debug\net5.0\SERVER_store.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\obj\Debug\net5.0\Razor\Views\Home\Atribute_system.cshtml.g.cs
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\Антон\source\repos\SERVER_store\SERVER_store\obj\Debug\net5.0\Razor\Views\Home\Category.cshtml.g.cs
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\appsettings.Development.json
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\appsettings.json
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\SERVER_store.StaticWebAssets.xml
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\SERVER_store.exe
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\SERVER_store.deps.json
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\SERVER_store.runtimeconfig.json
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\SERVER_store.runtimeconfig.dev.json
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\SERVER_store.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\ref\SERVER_store.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\SERVER_store.pdb
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\SERVER_store.Views.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\SERVER_store.Views.pdb
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\Google.Protobuf.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\Humanizer.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\linq2db.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\MySql.Data.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\Zstandard.Net.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\MySql.Data.EntityFrameworkCore.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\Renci.SshNet.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\SshNet.Security.Cryptography.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\SERVER_store\SERVER_store\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\SERVER_store\SERVER_store\obj\Debug\net5.0\SERVER_store.csproj.AssemblyReference.cache
+D:\SERVER_store\SERVER_store\obj\Debug\net5.0\SERVER_store.GeneratedMSBuildEditorConfig.editorconfig
+D:\SERVER_store\SERVER_store\obj\Debug\net5.0\SERVER_store.AssemblyInfoInputs.cache
+D:\SERVER_store\SERVER_store\obj\Debug\net5.0\SERVER_store.AssemblyInfo.cs
+D:\SERVER_store\SERVER_store\obj\Debug\net5.0\SERVER_store.csproj.CoreCompileInputs.cache
+D:\SERVER_store\SERVER_store\obj\Debug\net5.0\SERVER_store.MvcApplicationPartsAssemblyInfo.cs
+D:\SERVER_store\SERVER_store\obj\Debug\net5.0\SERVER_store.MvcApplicationPartsAssemblyInfo.cache
+D:\SERVER_store\SERVER_store\obj\Debug\net5.0\SERVER_store.RazorAssemblyInfo.cache
+D:\SERVER_store\SERVER_store\obj\Debug\net5.0\SERVER_store.RazorAssemblyInfo.cs
+D:\SERVER_store\SERVER_store\obj\Debug\net5.0\staticwebassets\SERVER_store.StaticWebAssets.Manifest.cache
+D:\SERVER_store\SERVER_store\obj\Debug\net5.0\staticwebassets\SERVER_store.StaticWebAssets.xml
+D:\SERVER_store\SERVER_store\obj\Debug\net5.0\scopedcss\bundle\SERVER_store.styles.css
+D:\SERVER_store\SERVER_store\obj\Debug\net5.0\SERVER_store.TagHelpers.input.cache
+D:\SERVER_store\SERVER_store\obj\Debug\net5.0\SERVER_store.TagHelpers.output.cache
+D:\SERVER_store\SERVER_store\obj\Debug\net5.0\SERVER_store.RazorCoreGenerate.cache
+D:\SERVER_store\SERVER_store\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+D:\SERVER_store\SERVER_store\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+D:\SERVER_store\SERVER_store\obj\Debug\net5.0\Razor\Views\Home\Atribute_system.cshtml.g.cs
+D:\SERVER_store\SERVER_store\obj\Debug\net5.0\Razor\Views\Home\Category.cshtml.g.cs
+D:\SERVER_store\SERVER_store\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\SERVER_store\SERVER_store\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\SERVER_store\SERVER_store\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\SERVER_store\SERVER_store\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\SERVER_store\SERVER_store\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\SERVER_store\SERVER_store\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\SERVER_store\SERVER_store\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\SERVER_store\SERVER_store\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\SERVER_store\SERVER_store\obj\Debug\net5.0\SERVER_store.RazorTargetAssemblyInfo.cache
+D:\SERVER_store\SERVER_store\obj\Debug\net5.0\SERVER_store.RazorTargetAssemblyInfo.cs
+D:\SERVER_store\SERVER_store\obj\Debug\net5.0\SERVER_store.Views.pdb
+D:\SERVER_store\SERVER_store\obj\Debug\net5.0\SERVER_store.csproj.CopyComplete
+D:\SERVER_store\SERVER_store\obj\Debug\net5.0\SERVER_store.dll
+D:\SERVER_store\SERVER_store\obj\Debug\net5.0\ref\SERVER_store.dll
+D:\SERVER_store\SERVER_store\obj\Debug\net5.0\SERVER_store.pdb
+D:\SERVER_store\SERVER_store\obj\Debug\net5.0\SERVER_store.genruntimeconfig.cache
+D:\SERVER_store\SERVER_store\obj\Debug\net5.0\Razor\Views\Home\Buy.cshtml.g.cs
+D:\SERVER_store\SERVER_store\obj\Debug\net5.0\Razor\Views\Users\Create.cshtml.g.cs
+D:\SERVER_store\SERVER_store\obj\Debug\net5.0\Razor\Views\Users\Edit.cshtml.g.cs
+D:\SERVER_store\SERVER_store\obj\Debug\net5.0\Razor\Views\Users\Index.cshtml.g.cs
+D:\SERVER_store\SERVER_store\obj\Debug\net5.0\Razor\Views\Roles\Create.cshtml.g.cs
+D:\SERVER_store\SERVER_store\obj\Debug\net5.0\Razor\Views\Roles\Edit.cshtml.g.cs
+D:\SERVER_store\SERVER_store\obj\Debug\net5.0\Razor\Views\Roles\Index.cshtml.g.cs
+D:\SERVER_store\SERVER_store\obj\Debug\net5.0\Razor\Views\Roles\UserList.cshtml.g.cs
+D:\SERVER_store\SERVER_store\obj\Debug\net5.0\Razor\Views\Home\Cart.cshtml.g.cs
+D:\SERVER_store\SERVER_store\obj\Debug\net5.0\Razor\Views\Home\CathasCat.cshtml.g.cs
+D:\SERVER_store\SERVER_store\obj\Debug\net5.0\Razor\Views\Home\Product.cshtml.g.cs
+D:\SERVER_store\SERVER_store\obj\Debug\net5.0\Razor\Views\Home\ProductShow.cshtml.g.cs
+D:\SERVER_store\SERVER_store\obj\Debug\net5.0\Razor\Views\Home\ProducthasCategory.cshtml.g.cs
+D:\SERVER_store\SERVER_store\obj\Debug\net5.0\Razor\Views\Admin\Panel.cshtml.g.cs
+E:\SERVER_store\SERVER_store\obj\Debug\net5.0\SERVER_store.csproj.AssemblyReference.cache
+E:\SERVER_store\SERVER_store\obj\Debug\net5.0\SERVER_store.GeneratedMSBuildEditorConfig.editorconfig
+E:\SERVER_store\SERVER_store\obj\Debug\net5.0\SERVER_store.AssemblyInfoInputs.cache
+E:\SERVER_store\SERVER_store\obj\Debug\net5.0\SERVER_store.AssemblyInfo.cs
+E:\SERVER_store\SERVER_store\obj\Debug\net5.0\SERVER_store.csproj.CoreCompileInputs.cache
+E:\SERVER_store\SERVER_store\obj\Debug\net5.0\SERVER_store.MvcApplicationPartsAssemblyInfo.cs
+E:\SERVER_store\SERVER_store\obj\Debug\net5.0\SERVER_store.MvcApplicationPartsAssemblyInfo.cache
+E:\SERVER_store\SERVER_store\obj\Debug\net5.0\SERVER_store.RazorAssemblyInfo.cache
+E:\SERVER_store\SERVER_store\obj\Debug\net5.0\SERVER_store.RazorAssemblyInfo.cs
+E:\SERVER_store\SERVER_store\obj\Debug\net5.0\SERVER_store.dll
+E:\SERVER_store\SERVER_store\obj\Debug\net5.0\ref\SERVER_store.dll
+E:\SERVER_store\SERVER_store\obj\Debug\net5.0\SERVER_store.pdb
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\appsettings.Development.json
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\appsettings.json
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\SERVER_store.StaticWebAssets.xml
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\SERVER_store.exe
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\SERVER_store.deps.json
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\SERVER_store.runtimeconfig.json
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\SERVER_store.runtimeconfig.dev.json
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\SERVER_store.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\ref\SERVER_store.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\SERVER_store.pdb
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\SERVER_store.Views.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\SERVER_store.Views.pdb
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\Google.Protobuf.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\Humanizer.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\linq2db.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\MySql.Data.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\Zstandard.Net.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\MySql.Data.EntityFrameworkCore.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\Renci.SshNet.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\SshNet.Security.Cryptography.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\SERVER_store\SERVER_store\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\SERVER_store\SERVER_store\obj\Debug\net5.0\staticwebassets\SERVER_store.StaticWebAssets.Manifest.cache
+E:\SERVER_store\SERVER_store\obj\Debug\net5.0\staticwebassets\SERVER_store.StaticWebAssets.xml
+E:\SERVER_store\SERVER_store\obj\Debug\net5.0\scopedcss\bundle\SERVER_store.styles.css
+E:\SERVER_store\SERVER_store\obj\Debug\net5.0\SERVER_store.TagHelpers.input.cache
+E:\SERVER_store\SERVER_store\obj\Debug\net5.0\SERVER_store.TagHelpers.output.cache
+E:\SERVER_store\SERVER_store\obj\Debug\net5.0\SERVER_store.RazorCoreGenerate.cache
+E:\SERVER_store\SERVER_store\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+E:\SERVER_store\SERVER_store\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+E:\SERVER_store\SERVER_store\obj\Debug\net5.0\Razor\Views\Admin\AdminPanel.cshtml.g.cs
+E:\SERVER_store\SERVER_store\obj\Debug\net5.0\Razor\Views\Home\Buy.cshtml.g.cs
+E:\SERVER_store\SERVER_store\obj\Debug\net5.0\Razor\Views\Home\Cart.cshtml.g.cs
+E:\SERVER_store\SERVER_store\obj\Debug\net5.0\Razor\Views\Home\Category.cshtml.g.cs
+E:\SERVER_store\SERVER_store\obj\Debug\net5.0\Razor\Views\Home\CathasCat.cshtml.g.cs
+E:\SERVER_store\SERVER_store\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\SERVER_store\SERVER_store\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\SERVER_store\SERVER_store\obj\Debug\net5.0\Razor\Views\Home\Product.cshtml.g.cs
+E:\SERVER_store\SERVER_store\obj\Debug\net5.0\Razor\Views\Home\ProducthasCategory.cshtml.g.cs
+E:\SERVER_store\SERVER_store\obj\Debug\net5.0\Razor\Views\Home\ProductShow.cshtml.g.cs
+E:\SERVER_store\SERVER_store\obj\Debug\net5.0\Razor\Views\Roles\Create.cshtml.g.cs
+E:\SERVER_store\SERVER_store\obj\Debug\net5.0\Razor\Views\Roles\Edit.cshtml.g.cs
+E:\SERVER_store\SERVER_store\obj\Debug\net5.0\Razor\Views\Roles\Index.cshtml.g.cs
+E:\SERVER_store\SERVER_store\obj\Debug\net5.0\Razor\Views\Roles\UserList.cshtml.g.cs
+E:\SERVER_store\SERVER_store\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\SERVER_store\SERVER_store\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\SERVER_store\SERVER_store\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+E:\SERVER_store\SERVER_store\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\SERVER_store\SERVER_store\obj\Debug\net5.0\Razor\Views\Users\Create.cshtml.g.cs
+E:\SERVER_store\SERVER_store\obj\Debug\net5.0\Razor\Views\Users\Edit.cshtml.g.cs
+E:\SERVER_store\SERVER_store\obj\Debug\net5.0\Razor\Views\Users\Index.cshtml.g.cs
+E:\SERVER_store\SERVER_store\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\SERVER_store\SERVER_store\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\SERVER_store\SERVER_store\obj\Debug\net5.0\SERVER_store.RazorTargetAssemblyInfo.cache
+E:\SERVER_store\SERVER_store\obj\Debug\net5.0\SERVER_store.RazorTargetAssemblyInfo.cs
+E:\SERVER_store\SERVER_store\obj\Debug\net5.0\SERVER_store.Views.pdb
+E:\SERVER_store\SERVER_store\obj\Debug\net5.0\SERVER_store.csproj.CopyComplete
+E:\SERVER_store\SERVER_store\obj\Debug\net5.0\SERVER_store.genruntimeconfig.cache
+E:\SERVER_store\SERVER_store\obj\Debug\net5.0\Razor\Views\Home\Create.cshtml.g.cs
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\appsettings.Development.json
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\appsettings.json
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\SERVER_store.StaticWebAssets.xml
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\SERVER_store.exe
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\SERVER_store.deps.json
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\SERVER_store.runtimeconfig.json
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\SERVER_store.runtimeconfig.dev.json
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\SERVER_store.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\ref\SERVER_store.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\SERVER_store.pdb
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\SERVER_store.Views.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\SERVER_store.Views.pdb
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Google.Protobuf.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Humanizer.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\linq2db.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\MySql.Data.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Zstandard.Net.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\MySql.Data.EntityFrameworkCore.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Renci.SshNet.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\SshNet.Security.Cryptography.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\SERVER_store1\SERVER_store\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\SERVER_store1\SERVER_store\obj\Debug\net5.0\SERVER_store.csproj.AssemblyReference.cache
+D:\SERVER_store1\SERVER_store\obj\Debug\net5.0\SERVER_store.GeneratedMSBuildEditorConfig.editorconfig
+D:\SERVER_store1\SERVER_store\obj\Debug\net5.0\SERVER_store.AssemblyInfoInputs.cache
+D:\SERVER_store1\SERVER_store\obj\Debug\net5.0\SERVER_store.AssemblyInfo.cs
+D:\SERVER_store1\SERVER_store\obj\Debug\net5.0\SERVER_store.csproj.CoreCompileInputs.cache
+D:\SERVER_store1\SERVER_store\obj\Debug\net5.0\SERVER_store.MvcApplicationPartsAssemblyInfo.cs
+D:\SERVER_store1\SERVER_store\obj\Debug\net5.0\SERVER_store.MvcApplicationPartsAssemblyInfo.cache
+D:\SERVER_store1\SERVER_store\obj\Debug\net5.0\SERVER_store.RazorAssemblyInfo.cache
+D:\SERVER_store1\SERVER_store\obj\Debug\net5.0\SERVER_store.RazorAssemblyInfo.cs
+D:\SERVER_store1\SERVER_store\obj\Debug\net5.0\staticwebassets\SERVER_store.StaticWebAssets.Manifest.cache
+D:\SERVER_store1\SERVER_store\obj\Debug\net5.0\staticwebassets\SERVER_store.StaticWebAssets.xml
+D:\SERVER_store1\SERVER_store\obj\Debug\net5.0\scopedcss\bundle\SERVER_store.styles.css
+D:\SERVER_store1\SERVER_store\obj\Debug\net5.0\SERVER_store.TagHelpers.input.cache
+D:\SERVER_store1\SERVER_store\obj\Debug\net5.0\SERVER_store.TagHelpers.output.cache
+D:\SERVER_store1\SERVER_store\obj\Debug\net5.0\SERVER_store.RazorCoreGenerate.cache
+D:\SERVER_store1\SERVER_store\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+D:\SERVER_store1\SERVER_store\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+D:\SERVER_store1\SERVER_store\obj\Debug\net5.0\Razor\Views\Admin\AdminPanel.cshtml.g.cs
+D:\SERVER_store1\SERVER_store\obj\Debug\net5.0\Razor\Views\Home\Buy.cshtml.g.cs
+D:\SERVER_store1\SERVER_store\obj\Debug\net5.0\Razor\Views\Home\Cart.cshtml.g.cs
+D:\SERVER_store1\SERVER_store\obj\Debug\net5.0\Razor\Views\Home\Category.cshtml.g.cs
+D:\SERVER_store1\SERVER_store\obj\Debug\net5.0\Razor\Views\Home\CathasCat.cshtml.g.cs
+D:\SERVER_store1\SERVER_store\obj\Debug\net5.0\Razor\Views\Home\Create.cshtml.g.cs
+D:\SERVER_store1\SERVER_store\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\SERVER_store1\SERVER_store\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\SERVER_store1\SERVER_store\obj\Debug\net5.0\Razor\Views\Home\Product.cshtml.g.cs
+D:\SERVER_store1\SERVER_store\obj\Debug\net5.0\Razor\Views\Home\ProducthasCategory.cshtml.g.cs
+D:\SERVER_store1\SERVER_store\obj\Debug\net5.0\Razor\Views\Home\ProductShow.cshtml.g.cs
+D:\SERVER_store1\SERVER_store\obj\Debug\net5.0\Razor\Views\Roles\Create.cshtml.g.cs
+D:\SERVER_store1\SERVER_store\obj\Debug\net5.0\Razor\Views\Roles\Edit.cshtml.g.cs
+D:\SERVER_store1\SERVER_store\obj\Debug\net5.0\Razor\Views\Roles\Index.cshtml.g.cs
+D:\SERVER_store1\SERVER_store\obj\Debug\net5.0\Razor\Views\Roles\UserList.cshtml.g.cs
+D:\SERVER_store1\SERVER_store\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\SERVER_store1\SERVER_store\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\SERVER_store1\SERVER_store\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\SERVER_store1\SERVER_store\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\SERVER_store1\SERVER_store\obj\Debug\net5.0\Razor\Views\Users\Create.cshtml.g.cs
+D:\SERVER_store1\SERVER_store\obj\Debug\net5.0\Razor\Views\Users\Edit.cshtml.g.cs
+D:\SERVER_store1\SERVER_store\obj\Debug\net5.0\Razor\Views\Users\Index.cshtml.g.cs
+D:\SERVER_store1\SERVER_store\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\SERVER_store1\SERVER_store\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\SERVER_store1\SERVER_store\obj\Debug\net5.0\SERVER_store.RazorTargetAssemblyInfo.cache
+D:\SERVER_store1\SERVER_store\obj\Debug\net5.0\SERVER_store.RazorTargetAssemblyInfo.cs
+D:\SERVER_store1\SERVER_store\obj\Debug\net5.0\SERVER_store.Views.pdb
+D:\SERVER_store1\SERVER_store\obj\Debug\net5.0\SERVER_store.csproj.CopyComplete
+D:\SERVER_store1\SERVER_store\obj\Debug\net5.0\SERVER_store.dll
+D:\SERVER_store1\SERVER_store\obj\Debug\net5.0\ref\SERVER_store.dll
+D:\SERVER_store1\SERVER_store\obj\Debug\net5.0\SERVER_store.pdb
+D:\SERVER_store1\SERVER_store\obj\Debug\net5.0\SERVER_store.genruntimeconfig.cache
+D:\SERVER_store1\SERVER_store\obj\Debug\net5.0\Razor\Views\Home\ShowCart.cshtml.g.cs
+D:\SERVER_store1\SERVER_store\obj\Debug\net5.0\Razor\Views\Home\ShowOrder.cshtml.g.cs
+D:\SERVER_store1\SERVER_store\obj\Debug\net5.0\Razor\Views\Home\ShowOrders.cshtml.g.cs
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\appsettings.Development.json
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\appsettings.json
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\SERVER_store.StaticWebAssets.xml
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\SERVER_store.exe
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\SERVER_store.deps.json
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\SERVER_store.runtimeconfig.json
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\SERVER_store.runtimeconfig.dev.json
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\SERVER_store.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\ref\SERVER_store.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\SERVER_store.pdb
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\SERVER_store.Views.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\SERVER_store.Views.pdb
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Google.Protobuf.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Humanizer.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\linq2db.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\MySql.Data.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Zstandard.Net.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\MySql.Data.EntityFrameworkCore.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Renci.SshNet.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\SshNet.Security.Cryptography.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\SERVER_store1\SERVER_store\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\SERVER_store1\SERVER_store\obj\Debug\net5.0\SERVER_store.csproj.AssemblyReference.cache
+E:\SERVER_store1\SERVER_store\obj\Debug\net5.0\SERVER_store.GeneratedMSBuildEditorConfig.editorconfig
+E:\SERVER_store1\SERVER_store\obj\Debug\net5.0\SERVER_store.AssemblyInfoInputs.cache
+E:\SERVER_store1\SERVER_store\obj\Debug\net5.0\SERVER_store.AssemblyInfo.cs
+E:\SERVER_store1\SERVER_store\obj\Debug\net5.0\SERVER_store.csproj.CoreCompileInputs.cache
+E:\SERVER_store1\SERVER_store\obj\Debug\net5.0\SERVER_store.MvcApplicationPartsAssemblyInfo.cs
+E:\SERVER_store1\SERVER_store\obj\Debug\net5.0\SERVER_store.MvcApplicationPartsAssemblyInfo.cache
+E:\SERVER_store1\SERVER_store\obj\Debug\net5.0\SERVER_store.RazorAssemblyInfo.cache
+E:\SERVER_store1\SERVER_store\obj\Debug\net5.0\SERVER_store.RazorAssemblyInfo.cs
+E:\SERVER_store1\SERVER_store\obj\Debug\net5.0\staticwebassets\SERVER_store.StaticWebAssets.Manifest.cache
+E:\SERVER_store1\SERVER_store\obj\Debug\net5.0\staticwebassets\SERVER_store.StaticWebAssets.xml
+E:\SERVER_store1\SERVER_store\obj\Debug\net5.0\scopedcss\bundle\SERVER_store.styles.css
+E:\SERVER_store1\SERVER_store\obj\Debug\net5.0\SERVER_store.TagHelpers.input.cache
+E:\SERVER_store1\SERVER_store\obj\Debug\net5.0\SERVER_store.TagHelpers.output.cache
+E:\SERVER_store1\SERVER_store\obj\Debug\net5.0\SERVER_store.RazorCoreGenerate.cache
+E:\SERVER_store1\SERVER_store\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+E:\SERVER_store1\SERVER_store\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+E:\SERVER_store1\SERVER_store\obj\Debug\net5.0\Razor\Views\Admin\AdminPanel.cshtml.g.cs
+E:\SERVER_store1\SERVER_store\obj\Debug\net5.0\Razor\Views\Home\Buy.cshtml.g.cs
+E:\SERVER_store1\SERVER_store\obj\Debug\net5.0\Razor\Views\Home\Cart.cshtml.g.cs
+E:\SERVER_store1\SERVER_store\obj\Debug\net5.0\Razor\Views\Home\Category.cshtml.g.cs
+E:\SERVER_store1\SERVER_store\obj\Debug\net5.0\Razor\Views\Home\CathasCat.cshtml.g.cs
+E:\SERVER_store1\SERVER_store\obj\Debug\net5.0\Razor\Views\Home\Create.cshtml.g.cs
+E:\SERVER_store1\SERVER_store\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\SERVER_store1\SERVER_store\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\SERVER_store1\SERVER_store\obj\Debug\net5.0\Razor\Views\Home\Product.cshtml.g.cs
+E:\SERVER_store1\SERVER_store\obj\Debug\net5.0\Razor\Views\Home\ProducthasCategory.cshtml.g.cs
+E:\SERVER_store1\SERVER_store\obj\Debug\net5.0\Razor\Views\Home\ProductShow.cshtml.g.cs
+E:\SERVER_store1\SERVER_store\obj\Debug\net5.0\Razor\Views\Home\ShowCart.cshtml.g.cs
+E:\SERVER_store1\SERVER_store\obj\Debug\net5.0\Razor\Views\Home\ShowOrder.cshtml.g.cs
+E:\SERVER_store1\SERVER_store\obj\Debug\net5.0\Razor\Views\Home\ShowOrders.cshtml.g.cs
+E:\SERVER_store1\SERVER_store\obj\Debug\net5.0\Razor\Views\Roles\Create.cshtml.g.cs
+E:\SERVER_store1\SERVER_store\obj\Debug\net5.0\Razor\Views\Roles\Edit.cshtml.g.cs
+E:\SERVER_store1\SERVER_store\obj\Debug\net5.0\Razor\Views\Roles\Index.cshtml.g.cs
+E:\SERVER_store1\SERVER_store\obj\Debug\net5.0\Razor\Views\Roles\UserList.cshtml.g.cs
+E:\SERVER_store1\SERVER_store\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\SERVER_store1\SERVER_store\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\SERVER_store1\SERVER_store\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+E:\SERVER_store1\SERVER_store\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\SERVER_store1\SERVER_store\obj\Debug\net5.0\Razor\Views\Users\Create.cshtml.g.cs
+E:\SERVER_store1\SERVER_store\obj\Debug\net5.0\Razor\Views\Users\Edit.cshtml.g.cs
+E:\SERVER_store1\SERVER_store\obj\Debug\net5.0\Razor\Views\Users\Index.cshtml.g.cs
+E:\SERVER_store1\SERVER_store\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\SERVER_store1\SERVER_store\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\SERVER_store1\SERVER_store\obj\Debug\net5.0\SERVER_store.RazorTargetAssemblyInfo.cache
+E:\SERVER_store1\SERVER_store\obj\Debug\net5.0\SERVER_store.RazorTargetAssemblyInfo.cs
+E:\SERVER_store1\SERVER_store\obj\Debug\net5.0\SERVER_store.Views.pdb
+E:\SERVER_store1\SERVER_store\obj\Debug\net5.0\SERVER_store.csproj.CopyComplete
+E:\SERVER_store1\SERVER_store\obj\Debug\net5.0\SERVER_store.dll
+E:\SERVER_store1\SERVER_store\obj\Debug\net5.0\ref\SERVER_store.dll
+E:\SERVER_store1\SERVER_store\obj\Debug\net5.0\SERVER_store.pdb
+E:\SERVER_store1\SERVER_store\obj\Debug\net5.0\SERVER_store.genruntimeconfig.cache
+E:\SERVER_store1\SERVER_store\obj\Debug\net5.0\Razor\Views\Home\Delete.cshtml.g.cs
+E:\SERVER_store1\SERVER_store\obj\Debug\net5.0\Razor\Views\Home\Search.cshtml.g.cs
+E:\SERVER_store1\SERVER_store\obj\Debug\net5.0\Razor\Views\Home\BuildPc.cshtml.g.cs
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\appsettings.Development.json
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\appsettings.json
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\SERVER_store.StaticWebAssets.xml
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\SERVER_store.exe
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\SERVER_store.deps.json
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\SERVER_store.runtimeconfig.json
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\SERVER_store.runtimeconfig.dev.json
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\SERVER_store.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\ref\SERVER_store.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\SERVER_store.pdb
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\SERVER_store.Views.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\SERVER_store.Views.pdb
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Google.Protobuf.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Humanizer.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\linq2db.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\MySql.Data.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Zstandard.Net.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\MySql.Data.EntityFrameworkCore.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\Renci.SshNet.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\SshNet.Security.Cryptography.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\System.Composition.Convention.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\System.Composition.Hosting.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\System.Composition.Runtime.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\System.Composition.TypedParts.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\SERVER_store1\SERVER_store\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\SERVER_store1\SERVER_store\obj\Debug\net5.0\SERVER_store.csproj.AssemblyReference.cache
+F:\SERVER_store1\SERVER_store\obj\Debug\net5.0\SERVER_store.GeneratedMSBuildEditorConfig.editorconfig
+F:\SERVER_store1\SERVER_store\obj\Debug\net5.0\SERVER_store.AssemblyInfoInputs.cache
+F:\SERVER_store1\SERVER_store\obj\Debug\net5.0\SERVER_store.AssemblyInfo.cs
+F:\SERVER_store1\SERVER_store\obj\Debug\net5.0\SERVER_store.csproj.CoreCompileInputs.cache
+F:\SERVER_store1\SERVER_store\obj\Debug\net5.0\SERVER_store.MvcApplicationPartsAssemblyInfo.cs
+F:\SERVER_store1\SERVER_store\obj\Debug\net5.0\SERVER_store.MvcApplicationPartsAssemblyInfo.cache
+F:\SERVER_store1\SERVER_store\obj\Debug\net5.0\SERVER_store.RazorAssemblyInfo.cache
+F:\SERVER_store1\SERVER_store\obj\Debug\net5.0\SERVER_store.RazorAssemblyInfo.cs
+F:\SERVER_store1\SERVER_store\obj\Debug\net5.0\staticwebassets\SERVER_store.StaticWebAssets.Manifest.cache
+F:\SERVER_store1\SERVER_store\obj\Debug\net5.0\staticwebassets\SERVER_store.StaticWebAssets.xml
+F:\SERVER_store1\SERVER_store\obj\Debug\net5.0\scopedcss\bundle\SERVER_store.styles.css
+F:\SERVER_store1\SERVER_store\obj\Debug\net5.0\SERVER_store.TagHelpers.input.cache
+F:\SERVER_store1\SERVER_store\obj\Debug\net5.0\SERVER_store.TagHelpers.output.cache
+F:\SERVER_store1\SERVER_store\obj\Debug\net5.0\SERVER_store.RazorCoreGenerate.cache
+F:\SERVER_store1\SERVER_store\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+F:\SERVER_store1\SERVER_store\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+F:\SERVER_store1\SERVER_store\obj\Debug\net5.0\Razor\Views\Admin\AdminPanel.cshtml.g.cs
+F:\SERVER_store1\SERVER_store\obj\Debug\net5.0\Razor\Views\Home\BuildPc.cshtml.g.cs
+F:\SERVER_store1\SERVER_store\obj\Debug\net5.0\Razor\Views\Home\Buy.cshtml.g.cs
+F:\SERVER_store1\SERVER_store\obj\Debug\net5.0\Razor\Views\Home\Cart.cshtml.g.cs
+F:\SERVER_store1\SERVER_store\obj\Debug\net5.0\Razor\Views\Home\Category.cshtml.g.cs
+F:\SERVER_store1\SERVER_store\obj\Debug\net5.0\Razor\Views\Home\CathasCat.cshtml.g.cs
+F:\SERVER_store1\SERVER_store\obj\Debug\net5.0\Razor\Views\Home\Create.cshtml.g.cs
+F:\SERVER_store1\SERVER_store\obj\Debug\net5.0\Razor\Views\Home\Delete.cshtml.g.cs
+F:\SERVER_store1\SERVER_store\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+F:\SERVER_store1\SERVER_store\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\SERVER_store1\SERVER_store\obj\Debug\net5.0\Razor\Views\Home\Product.cshtml.g.cs
+F:\SERVER_store1\SERVER_store\obj\Debug\net5.0\Razor\Views\Home\ProducthasCategory.cshtml.g.cs
+F:\SERVER_store1\SERVER_store\obj\Debug\net5.0\Razor\Views\Home\ProductShow.cshtml.g.cs
+F:\SERVER_store1\SERVER_store\obj\Debug\net5.0\Razor\Views\Home\Search.cshtml.g.cs
+F:\SERVER_store1\SERVER_store\obj\Debug\net5.0\Razor\Views\Home\ShowCart.cshtml.g.cs
+F:\SERVER_store1\SERVER_store\obj\Debug\net5.0\Razor\Views\Home\ShowOrder.cshtml.g.cs
+F:\SERVER_store1\SERVER_store\obj\Debug\net5.0\Razor\Views\Home\ShowOrders.cshtml.g.cs
+F:\SERVER_store1\SERVER_store\obj\Debug\net5.0\Razor\Views\Roles\Create.cshtml.g.cs
+F:\SERVER_store1\SERVER_store\obj\Debug\net5.0\Razor\Views\Roles\Edit.cshtml.g.cs
+F:\SERVER_store1\SERVER_store\obj\Debug\net5.0\Razor\Views\Roles\Index.cshtml.g.cs
+F:\SERVER_store1\SERVER_store\obj\Debug\net5.0\Razor\Views\Roles\UserList.cshtml.g.cs
+F:\SERVER_store1\SERVER_store\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+F:\SERVER_store1\SERVER_store\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\SERVER_store1\SERVER_store\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+F:\SERVER_store1\SERVER_store\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\SERVER_store1\SERVER_store\obj\Debug\net5.0\Razor\Views\Users\Create.cshtml.g.cs
+F:\SERVER_store1\SERVER_store\obj\Debug\net5.0\Razor\Views\Users\Edit.cshtml.g.cs
+F:\SERVER_store1\SERVER_store\obj\Debug\net5.0\Razor\Views\Users\Index.cshtml.g.cs
+F:\SERVER_store1\SERVER_store\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+F:\SERVER_store1\SERVER_store\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+F:\SERVER_store1\SERVER_store\obj\Debug\net5.0\SERVER_store.RazorTargetAssemblyInfo.cache
+F:\SERVER_store1\SERVER_store\obj\Debug\net5.0\SERVER_store.RazorTargetAssemblyInfo.cs
+F:\SERVER_store1\SERVER_store\obj\Debug\net5.0\SERVER_store.Views.pdb
+F:\SERVER_store1\SERVER_store\obj\Debug\net5.0\SERVER_store.csproj.CopyComplete
+F:\SERVER_store1\SERVER_store\obj\Debug\net5.0\SERVER_store.dll
+F:\SERVER_store1\SERVER_store\obj\Debug\net5.0\ref\SERVER_store.dll
+F:\SERVER_store1\SERVER_store\obj\Debug\net5.0\SERVER_store.pdb
+F:\SERVER_store1\SERVER_store\obj\Debug\net5.0\SERVER_store.genruntimeconfig.cache
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\appsettings.json
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\SERVER_store.StaticWebAssets.xml
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\SERVER_store.exe
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\SERVER_store.deps.json
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\SERVER_store.runtimeconfig.json
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\SERVER_store.runtimeconfig.dev.json
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\SERVER_store.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\ref\SERVER_store.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\SERVER_store.pdb
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\SERVER_store.Views.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\SERVER_store.Views.pdb
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\linq2db.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\Zstandard.Net.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\MySql.Data.EntityFrameworkCore.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\Renci.SshNet.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\SshNet.Security.Cryptography.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\obj\Debug\net5.0\SERVER_store.csproj.AssemblyReference.cache
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\obj\Debug\net5.0\SERVER_store.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\obj\Debug\net5.0\SERVER_store.AssemblyInfoInputs.cache
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\obj\Debug\net5.0\SERVER_store.AssemblyInfo.cs
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\obj\Debug\net5.0\SERVER_store.csproj.CoreCompileInputs.cache
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\obj\Debug\net5.0\SERVER_store.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\obj\Debug\net5.0\SERVER_store.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\obj\Debug\net5.0\SERVER_store.RazorAssemblyInfo.cache
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\obj\Debug\net5.0\SERVER_store.RazorAssemblyInfo.cs
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\obj\Debug\net5.0\staticwebassets\SERVER_store.StaticWebAssets.Manifest.cache
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\obj\Debug\net5.0\staticwebassets\SERVER_store.StaticWebAssets.xml
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\obj\Debug\net5.0\scopedcss\bundle\SERVER_store.styles.css
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\obj\Debug\net5.0\SERVER_store.TagHelpers.input.cache
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\obj\Debug\net5.0\SERVER_store.TagHelpers.output.cache
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\obj\Debug\net5.0\SERVER_store.RazorCoreGenerate.cache
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\obj\Debug\net5.0\Razor\Views\Admin\AdminPanel.cshtml.g.cs
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\obj\Debug\net5.0\Razor\Views\Home\Product.cshtml.g.cs
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\obj\Debug\net5.0\Razor\Views\Home\ProducthasCategory.cshtml.g.cs
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\obj\Debug\net5.0\Razor\Views\Home\ProductShow.cshtml.g.cs
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\obj\Debug\net5.0\Razor\Views\Home\ShowCart.cshtml.g.cs
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\obj\Debug\net5.0\Razor\Views\Home\ShowOrder.cshtml.g.cs
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\obj\Debug\net5.0\Razor\Views\Home\ShowOrders.cshtml.g.cs
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\obj\Debug\net5.0\Razor\Views\Roles\Create.cshtml.g.cs
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\obj\Debug\net5.0\Razor\Views\Roles\Edit.cshtml.g.cs
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\obj\Debug\net5.0\Razor\Views\Roles\Index.cshtml.g.cs
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\obj\Debug\net5.0\Razor\Views\Roles\UserList.cshtml.g.cs
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\obj\Debug\net5.0\Razor\Views\Users\Create.cshtml.g.cs
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\obj\Debug\net5.0\Razor\Views\Users\Edit.cshtml.g.cs
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\obj\Debug\net5.0\Razor\Views\Users\Index.cshtml.g.cs
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\obj\Debug\net5.0\SERVER_store.RazorTargetAssemblyInfo.cache
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\obj\Debug\net5.0\SERVER_store.RazorTargetAssemblyInfo.cs
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\obj\Debug\net5.0\SERVER_store.Views.pdb
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\obj\Debug\net5.0\SERVER_store.csproj.CopyComplete
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\obj\Debug\net5.0\SERVER_store.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\obj\Debug\net5.0\ref\SERVER_store.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\obj\Debug\net5.0\SERVER_store.pdb
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\obj\Debug\net5.0\SERVER_store.genruntimeconfig.cache
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\obj\Debug\net5.0\Razor\Views\Admin\CreateProd.cshtml.g.cs
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\obj\Debug\net5.0\Razor\Views\Admin\EditProds.cshtml.g.cs
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\obj\Debug\net5.0\Razor\Views\Home\Search.cshtml.g.cs
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\obj\Debug\net5.0\Razor\Views\Admin\AdminOrders.cshtml.g.cs
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\obj\Debug\net5.0\Razor\Views\Admin\CreateProdAtr.cshtml.g.cs
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\obj\Debug\net5.0\Razor\Views\Admin\CreateCategory.cshtml.g.cs
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\obj\Debug\net5.0\Razor\Views\Admin\CreateCatHasCat.cshtml.g.cs
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\ClosedXML.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\DocumentFormat.OpenXml.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\ExcelNumberFormat.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\bin\Debug\net5.0\System.IO.Packaging.dll
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Антон\Desktop\SERVER_store\SERVER_store\obj\Debug\net5.0\Razor\Views\Home\MoneyFilter.cshtml.g.cs
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\appsettings.json
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\SERVER_store.StaticWebAssets.xml
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\SERVER_store.exe
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\SERVER_store.deps.json
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\SERVER_store.runtimeconfig.json
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\SERVER_store.runtimeconfig.dev.json
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\SERVER_store.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\SERVER_store.pdb
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\SERVER_store.Views.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\SERVER_store.Views.pdb
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\ClosedXML.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\DocumentFormat.OpenXml.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\ExcelNumberFormat.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\linq2db.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\Zstandard.Net.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\MySql.Data.EntityFrameworkCore.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\Renci.SshNet.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\SshNet.Security.Cryptography.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\System.IO.Packaging.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\obj\Debug\net5.0\SERVER_store.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Антон\Desktop\Server\SERVER_store\obj\Debug\net5.0\SERVER_store.AssemblyInfoInputs.cache
+C:\Users\Антон\Desktop\Server\SERVER_store\obj\Debug\net5.0\SERVER_store.AssemblyInfo.cs
+C:\Users\Антон\Desktop\Server\SERVER_store\obj\Debug\net5.0\SERVER_store.csproj.CoreCompileInputs.cache
+C:\Users\Антон\Desktop\Server\SERVER_store\obj\Debug\net5.0\SERVER_store.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Антон\Desktop\Server\SERVER_store\obj\Debug\net5.0\SERVER_store.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Антон\Desktop\Server\SERVER_store\obj\Debug\net5.0\SERVER_store.RazorAssemblyInfo.cache
+C:\Users\Антон\Desktop\Server\SERVER_store\obj\Debug\net5.0\SERVER_store.RazorAssemblyInfo.cs
+C:\Users\Антон\Desktop\Server\SERVER_store\obj\Debug\net5.0\staticwebassets\SERVER_store.StaticWebAssets.Manifest.cache
+C:\Users\Антон\Desktop\Server\SERVER_store\obj\Debug\net5.0\staticwebassets\SERVER_store.StaticWebAssets.xml
+C:\Users\Антон\Desktop\Server\SERVER_store\obj\Debug\net5.0\scopedcss\bundle\SERVER_store.styles.css
+C:\Users\Антон\Desktop\Server\SERVER_store\obj\Debug\net5.0\SERVER_store.TagHelpers.input.cache
+C:\Users\Антон\Desktop\Server\SERVER_store\obj\Debug\net5.0\SERVER_store.TagHelpers.output.cache
+C:\Users\Антон\Desktop\Server\SERVER_store\obj\Debug\net5.0\SERVER_store.RazorCoreGenerate.cache
+C:\Users\Антон\Desktop\Server\SERVER_store\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Антон\Desktop\Server\SERVER_store\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\Антон\Desktop\Server\SERVER_store\obj\Debug\net5.0\Razor\Views\Admin\AdminPanel.cshtml.g.cs
+C:\Users\Антон\Desktop\Server\SERVER_store\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Антон\Desktop\Server\SERVER_store\obj\Debug\net5.0\Razor\Views\Home\MoneyFilter.cshtml.g.cs
+C:\Users\Антон\Desktop\Server\SERVER_store\obj\Debug\net5.0\Razor\Views\Home\Product.cshtml.g.cs
+C:\Users\Антон\Desktop\Server\SERVER_store\obj\Debug\net5.0\Razor\Views\Home\ProducthasCategory.cshtml.g.cs
+C:\Users\Антон\Desktop\Server\SERVER_store\obj\Debug\net5.0\Razor\Views\Home\ProductShow.cshtml.g.cs
+C:\Users\Антон\Desktop\Server\SERVER_store\obj\Debug\net5.0\Razor\Views\Home\Search.cshtml.g.cs
+C:\Users\Антон\Desktop\Server\SERVER_store\obj\Debug\net5.0\Razor\Views\Home\ShowCart.cshtml.g.cs
+C:\Users\Антон\Desktop\Server\SERVER_store\obj\Debug\net5.0\Razor\Views\Home\ShowOrders.cshtml.g.cs
+C:\Users\Антон\Desktop\Server\SERVER_store\obj\Debug\net5.0\Razor\Views\Roles\Create.cshtml.g.cs
+C:\Users\Антон\Desktop\Server\SERVER_store\obj\Debug\net5.0\Razor\Views\Roles\Edit.cshtml.g.cs
+C:\Users\Антон\Desktop\Server\SERVER_store\obj\Debug\net5.0\Razor\Views\Roles\Index.cshtml.g.cs
+C:\Users\Антон\Desktop\Server\SERVER_store\obj\Debug\net5.0\Razor\Views\Roles\UserList.cshtml.g.cs
+C:\Users\Антон\Desktop\Server\SERVER_store\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Антон\Desktop\Server\SERVER_store\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Антон\Desktop\Server\SERVER_store\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Антон\Desktop\Server\SERVER_store\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Антон\Desktop\Server\SERVER_store\obj\Debug\net5.0\Razor\Views\Users\Create.cshtml.g.cs
+C:\Users\Антон\Desktop\Server\SERVER_store\obj\Debug\net5.0\Razor\Views\Users\Edit.cshtml.g.cs
+C:\Users\Антон\Desktop\Server\SERVER_store\obj\Debug\net5.0\Razor\Views\Users\Index.cshtml.g.cs
+C:\Users\Антон\Desktop\Server\SERVER_store\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Антон\Desktop\Server\SERVER_store\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Антон\Desktop\Server\SERVER_store\obj\Debug\net5.0\SERVER_store.RazorTargetAssemblyInfo.cache
+C:\Users\Антон\Desktop\Server\SERVER_store\obj\Debug\net5.0\SERVER_store.RazorTargetAssemblyInfo.cs
+C:\Users\Антон\Desktop\Server\SERVER_store\obj\Debug\net5.0\SERVER_store.Views.pdb
+C:\Users\Антон\Desktop\Server\SERVER_store\obj\Debug\net5.0\SERVER_store.csproj.CopyComplete
+C:\Users\Антон\Desktop\Server\SERVER_store\obj\Debug\net5.0\SERVER_store.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\obj\Debug\net5.0\ref\SERVER_store.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\obj\Debug\net5.0\SERVER_store.pdb
+C:\Users\Антон\Desktop\Server\SERVER_store\obj\Debug\net5.0\SERVER_store.genruntimeconfig.cache
+C:\Users\Антон\Desktop\Server\SERVER_store\obj\Debug\net5.0\Razor\Views\Home\Order.cshtml.g.cs
+C:\Users\Антон\Desktop\Server\SERVER_store\obj\Debug\net5.0\Razor\Views\Admin\CreateCategory.cshtml.g.cs
+C:\Users\Антон\Desktop\Server\SERVER_store\obj\Debug\net5.0\Razor\Views\Admin\CreateCatHasCat.cshtml.g.cs
+C:\Users\Антон\Desktop\Server\SERVER_store\obj\Debug\net5.0\Razor\Views\Admin\CreateProd.cshtml.g.cs
+C:\Users\Антон\Desktop\Server\SERVER_store\obj\Debug\net5.0\Razor\Views\Admin\CreateProdAtr.cshtml.g.cs
+C:\Users\Антон\Desktop\Server\SERVER_store\obj\Debug\net5.0\Razor\Views\Admin\EditProds.cshtml.g.cs
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\appsettings.json
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\SERVER_store.StaticWebAssets.xml
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\SERVER_store.exe
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\SERVER_store.deps.json
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\SERVER_store.runtimeconfig.json
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\SERVER_store.runtimeconfig.dev.json
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\SERVER_store.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\ref\SERVER_store.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\SERVER_store.pdb
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\SERVER_store.Views.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\SERVER_store.Views.pdb
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\ClosedXML.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\DocumentFormat.OpenXml.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\ExcelNumberFormat.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\linq2db.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\Zstandard.Net.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\MySql.Data.EntityFrameworkCore.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\Renci.SshNet.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\SshNet.Security.Cryptography.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\System.IO.Packaging.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\obj\Debug\net5.0\SERVER_store.csproj.AssemblyReference.cache
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\obj\Debug\net5.0\SERVER_store.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\obj\Debug\net5.0\SERVER_store.AssemblyInfoInputs.cache
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\obj\Debug\net5.0\SERVER_store.AssemblyInfo.cs
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\obj\Debug\net5.0\SERVER_store.csproj.CoreCompileInputs.cache
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\obj\Debug\net5.0\SERVER_store.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\obj\Debug\net5.0\SERVER_store.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\obj\Debug\net5.0\SERVER_store.RazorAssemblyInfo.cache
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\obj\Debug\net5.0\SERVER_store.RazorAssemblyInfo.cs
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\obj\Debug\net5.0\staticwebassets\SERVER_store.StaticWebAssets.Manifest.cache
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\obj\Debug\net5.0\staticwebassets\SERVER_store.StaticWebAssets.xml
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\obj\Debug\net5.0\scopedcss\bundle\SERVER_store.styles.css
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\obj\Debug\net5.0\SERVER_store.TagHelpers.input.cache
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\obj\Debug\net5.0\SERVER_store.TagHelpers.output.cache
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\obj\Debug\net5.0\SERVER_store.RazorCoreGenerate.cache
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\obj\Debug\net5.0\Razor\Views\Admin\AdminPanel.cshtml.g.cs
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\obj\Debug\net5.0\Razor\Views\Admin\CreateCategory.cshtml.g.cs
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\obj\Debug\net5.0\Razor\Views\Admin\CreateCatHasCat.cshtml.g.cs
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\obj\Debug\net5.0\Razor\Views\Admin\CreateProd.cshtml.g.cs
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\obj\Debug\net5.0\Razor\Views\Admin\CreateProdAtr.cshtml.g.cs
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\obj\Debug\net5.0\Razor\Views\Admin\EditProds.cshtml.g.cs
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\obj\Debug\net5.0\Razor\Views\Home\MoneyFilter.cshtml.g.cs
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\obj\Debug\net5.0\Razor\Views\Home\Order.cshtml.g.cs
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\obj\Debug\net5.0\Razor\Views\Home\Product.cshtml.g.cs
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\obj\Debug\net5.0\Razor\Views\Home\ProducthasCategory.cshtml.g.cs
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\obj\Debug\net5.0\Razor\Views\Home\ProductShow.cshtml.g.cs
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\obj\Debug\net5.0\Razor\Views\Home\Search.cshtml.g.cs
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\obj\Debug\net5.0\Razor\Views\Home\ShowCart.cshtml.g.cs
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\obj\Debug\net5.0\Razor\Views\Home\ShowOrders.cshtml.g.cs
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\obj\Debug\net5.0\Razor\Views\Roles\Create.cshtml.g.cs
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\obj\Debug\net5.0\Razor\Views\Roles\Edit.cshtml.g.cs
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\obj\Debug\net5.0\Razor\Views\Roles\Index.cshtml.g.cs
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\obj\Debug\net5.0\Razor\Views\Roles\UserList.cshtml.g.cs
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\obj\Debug\net5.0\Razor\Views\Users\Create.cshtml.g.cs
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\obj\Debug\net5.0\Razor\Views\Users\Edit.cshtml.g.cs
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\obj\Debug\net5.0\Razor\Views\Users\Index.cshtml.g.cs
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\obj\Debug\net5.0\SERVER_store.RazorTargetAssemblyInfo.cache
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\obj\Debug\net5.0\SERVER_store.RazorTargetAssemblyInfo.cs
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\obj\Debug\net5.0\SERVER_store.Views.pdb
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\obj\Debug\net5.0\SERVER_store.csproj.CopyComplete
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\obj\Debug\net5.0\SERVER_store.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\obj\Debug\net5.0\ref\SERVER_store.dll
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\obj\Debug\net5.0\SERVER_store.pdb
+C:\Users\Антон\Desktop\Server — копия\SERVER_store\obj\Debug\net5.0\SERVER_store.genruntimeconfig.cache
+C:\Users\Антон\Desktop\Server\SERVER_store\bin\Debug\net5.0\ref\SERVER_store.dll
+C:\Users\Антон\Desktop\Server\SERVER_store\obj\Debug\net5.0\Razor\Views\Admin\EditCategory.cshtml.g.cs
+C:\Users\Антон\Desktop\Server\SERVER_store\obj\Debug\net5.0\Razor\Views\Admin\EditCatHasCat.cshtml.g.cs
+C:\Users\Антон\Desktop\Server\SERVER_store\obj\Debug\net5.0\SERVER_store.csproj.AssemblyReference.cache

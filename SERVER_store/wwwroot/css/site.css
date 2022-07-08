@@ -1,0 +1,443 @@
+﻿/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.portfolio-wrap {
+    max-width: 1120px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.portfolio-item {
+    padding: 10px;
+}
+
+    .portfolio-item a {
+        display: block;
+        text-decoration: none;
+        color: white;
+    }
+
+.portfolio-item-wrap {
+    position: relative;
+    overflow: hidden;
+    text-align: center;
+    box-shadow: 0 0 5px rgba(0, 0, 0, .2);
+    background: black;
+    color: white;
+}
+
+.portfolio-item img {
+    display: block;
+    width: 100%;
+    height: 350px;
+    opacity: .75;
+    transition: .5s ease-in-out;
+}
+
+.portfolio-item-inner {
+    position: absolute;
+    top: 45%;
+    left: 7%;
+    right: 7%;
+    bottom: 45%;
+    border: 1px solid white;
+    border-width: 0 1px 1px;
+    transition: .4s ease-in-out;
+}
+
+.portfolio-heading {
+    overflow: hidden;
+    transform: translateY(-50%);
+}
+
+    .portfolio-heading h3 {
+        font-family: 'Pattaya', sans-serif;
+        font-weight: normal;
+        display: table;
+        margin: 0 auto;
+        padding: 0 10px;
+        position: relative;
+    }
+
+        .portfolio-heading h3:before, .portfolio-heading h3:after {
+            content: "";
+            position: absolute;
+            top: 50%;
+            width: 50px;
+            height: 1px;
+            background: white;
+        }
+
+        .portfolio-heading h3:before {
+            left: -50px;
+        }
+
+        .portfolio-heading h3:after {
+            right: -50px;
+        }
+
+.portfolio-item-inner ul {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    transform: translateY(-50%);
+    padding: 0 20px;
+    opacity: 0;
+    list-style: none;
+    font-family: 'Raleway', sans-serif;
+    transition: .4s ease-in-out;
+}
+
+.portfolio-item-inner li {
+    position: relative;
+    font-size: 12px;
+    padding: 10px 0;
+    margin-bottom: 4px;
+}
+
+    .portfolio-item-inner li:after {
+        content: "";
+        position: absolute;
+        left: 50%;
+        margin-left: -2px;
+        bottom: -4px;
+        width: 4px;
+        height: 4px;
+        border-radius: 50%;
+        background: white;
+        box-shadow: 10px 0 0 white, -10px 0 0 white;
+    }
+
+    .portfolio-item-inner li:last-child:after {
+        content: none;
+    }
+
+.portfolio-item:hover img {
+    opacity: 0.45;
+    transform: scale(1.1);
+}
+
+.portfolio-item:hover .portfolio-item-inner {
+    top: 7%;
+    bottom: 7%;
+}
+
+.portfolio-item:hover ul {
+    opacity: 1;
+    transition-delay: .5s;
+}
+
+@media (min-width: 530px) {
+    .portfolio-item {
+        flex-basis: 50%;
+        flex-shrink: 0;
+    }
+}
+
+@media (min-width: 768px) {
+    .portfolio-item {
+        flex-basis: 33.333333333%;
+    }
+}
+
+
+
+
+/*/////////////////////////*/
+
+* {
+    box-sizing: border-box;
+}
+
+.product-wrap {
+    width: 270px;
+    margin: 0 auto;
+    background: white;
+    padding: 0 0 20px;
+    text-align: center;
+    font-size: 14px;
+    font-family: Lora;
+    text-transform: uppercase;
+}
+
+.product-item {
+    position: relative;
+    overflow: hidden;
+}
+
+.product-wrap img {
+    display: block;
+    width: 100%;
+}
+
+.product-buttons {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, .8);
+    opacity: 0;
+    transition: .3s ease-in-out;
+}
+
+.button {
+    text-decoration: none;
+    color: #f51167;
+    font-size: 12px;
+    width: 140px;
+    height: 40px;
+    line-height: 40px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    border: 2px solid #f51167;
+    transform: translate(-50%, -50%) scale(0);
+    transition: .3s ease-in-out;
+}
+
+    .button:before {
+        background: url(https://cdn.icon-icons.com/icons2/656/PNG/512/hexagon_eye_center_server_networking_icon-icons.com_59973.png);
+        font-family: FontAwesome;
+        margin-right: 10px;
+    }
+
+.product-item:hover .product-buttons {
+    opacity: 1;
+}
+
+.product-item:hover .button {
+    transform: translate(-50%, -50%) scale(1);
+}
+
+.button:hover {
+    background: black;
+}
+
+.product-title {
+    color: #5e5e5e;
+}
+
+    .product-title a {
+        text-decoration: none;
+        color: #2e2e2e;
+        font-weight: 600;
+        margin: 15px 0 5px;
+        padding-bottom: 7px;
+        display: block;
+        position: relative;
+        transition: .3s ease-in-out;
+    }
+
+        .product-title a:after {
+            content: "";
+            position: absolute;
+            width: 40px;
+            height: 2px;
+            background: #2e2e2e;
+            left: 50%;
+            margin-left: -20px;
+            bottom: 0;
+            transition: .3s ease-in-out;
+        }
+
+        .product-title a:hover {
+            color: #c0a97a;
+        }
+
+    .product-title:hover a:after {
+        background: #c0a97a;
+    }
+
+.product-price {
+    font-size: 20px;
+    color: #f51167;
+    font-weight: 700;
+}
+
+
+/*//////////////////////////////*/
+
+.containers {
+    margin: 0 auto;
+    width: 250px;
+    height: 200px;
+    position: relative;
+    perspective: 1000px;
+}
+
+.carousel {
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    transform-style: preserve-3d;
+    transition: transform 1s;
+}
+
+.item {
+    display: block;
+    position: absolute;
+    background: #000;
+    width: 250px;
+    height: 200px;
+    line-height: 200px;
+    font-size: 5em;
+    text-align: center;
+    color: #FFF;
+    opacity: 0.95;
+    border-radius: 10px;
+}
+
+.a {
+    transform: rotateY(0deg) translateZ(250px);
+    background: url("https://www.kartinki24.ru/uploads/gallery/main/1/kartinki24_ru_3d_124.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.b {
+    transform: rotateY(60deg) translateZ(250px);
+    background: url("https://www.instel.ru/upload/iblock/dbb/%D0%9E%D1%86%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F%20%D0%97%D0%B5%D0%BC%D0%BB%D1%8F_%D0%B7%D0%B0%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BE%D0%BA2.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.c {
+    transform: rotateY(120deg) translateZ(250px);
+    background: url("https://diamondhand.ru/util/image/orgtehnika-mini.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.d {
+    transform: rotateY(180deg) translateZ(250px);
+    background: url("https://www.ferra.ru/thumb/1200x0/filters:quality(75):no_upscale()/imgs/2019/08/11/13/3511820/685e782d56b613960d29fa4f7ffe40a15bd9a81d.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.e {
+    transform: rotateY(240deg) translateZ(250px);
+    background: url("https://spark.ru/upload/other/b_613ef90b6f7b7.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.f {
+    transform: rotateY(300deg) translateZ(250px);
+    background: url("https://img.freepik.com/free-vector/electronic-techonology-background_54578-69.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.next, .prev {
+    color: #444;
+    position: absolute;
+    top: 80px;
+    padding: 1em 2em;
+    cursor: pointer;
+    background: #f73375;
+    border-radius: 5px;
+    border-top: 1px solid #FFF;
+    box-shadow: 0 5px 0 #999;
+    transition: box-shadow 0.1s, top 0.1s;
+}
+
+    .next:hover, .prev:hover {
+        color: #000;
+    }
+
+    .next:active, .prev:active {
+        top: 104px;
+        box-shadow: 0 1px 0 #999;
+    }
+
+.next {
+    right: -20em;
+}
+
+.prev {
+    left: -20em;
+}
+
+
+
+a.navbar-brand {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+/* Provide sufficient contrast against white background */
+a {
+  color: #0366d6;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  font-size: 14px;
+}
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.border-top {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px; /* Vertically center the text there */
+}
